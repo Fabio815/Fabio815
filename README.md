@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, me chamo Fábio Mota
 
-<!--
-**Fabio815/Fabio815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Sobre mim</h2>
+<p>Moro em Santa Catarina e estou cursando superior em Análise e Desenvolvimento de Sistemas no IFSC</p>
+<p>Atualmente estudo as seguintes tecnologias</p>
+<ul>
+  <li>C#</li>
+  <li>Java</li>
+  <li>C</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>SqlServer</li>
+</ul>
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="35" height="35"/>       
+</div>
+          
