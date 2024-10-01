@@ -1,7 +1,7 @@
 ## Olá, me chamo Fábio Mota
 
 <h2>Sobre mim</h2>
-<p>Moro em Santa Catarina e estou cursando superior em Análise e Desenvolvimento de Sistemas no IFSC</p>
+<p>Moro em Santa Catarina e estou cursando superior em Análise e Desenvolvimento de Sistemas no IFSC. Procuro minha primeira oportunidade na área de programação, embora tenha aplicado meu conhecimentos em projetos pessoais tenho a vontade de aplica-los em projetos reais, assim podendo solucionar problemas através da tecnologia.</p>
 <p>Atualmente estudo as seguintes tecnologias</p>
 <ul>
   <li>C#</li>
