@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
 <ul>
-  <li><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/77a90955-6b6c-4d20-9319-6c806caaa539" /> Estudante de Análise e Desenvolvimento de Sistemas no IFSC</li>
+  <li><img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/77a90955-6b6c-4d20-9319-6c806caaa539" /> Estudante de Análise e Desenvolvimento de Sistemas no IFSC</li>
   <li>Desenvolvedor Java em formação</li>
   <li>Estudando Spring Boot, JPA, Hibernate e boas práticas de desenvolvimento</li>
   <li>Experiência com Java, Servlets, JDBC, MySQL e Ext JS</li>
