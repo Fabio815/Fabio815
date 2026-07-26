@@ -6,6 +6,8 @@
 🎓 Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no IFSC e apaixonado por programação e desenvolvimento de software. Estou sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades e desenvolver soluções que contribuam para meu crescimento profissional.
 </p>
 
+<a>https://fabio815.github.io/Site-pessoal/<a/>
+
 ---
 
 ## 🚀 Sobre mim
